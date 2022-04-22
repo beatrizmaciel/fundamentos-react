@@ -1,3 +1,3 @@
 export default function First() {
-    return 'Primeiro Componente'
+    return 'Primeiro Componente React'
 }
